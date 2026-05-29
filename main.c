@@ -4,8 +4,7 @@
 #include <math.h>
 #include <unistd.h>
 
-#include "sensoren.c"
-#include "logik.c"
+#include "logik.h"
 
 // prototypes for the sensor functions
 int get_depth(int real_depth);
