@@ -4,7 +4,6 @@
 #include <string.h>
 
 #include "logik.h"
-#include "sensoren.h"
 
 float calculate_depth(float depth, float target_depth)
 {
